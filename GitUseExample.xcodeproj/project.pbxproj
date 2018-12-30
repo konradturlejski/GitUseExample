@@ -12,6 +12,7 @@
 		C60C936321D95E31002CBCC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C60C936121D95E31002CBCC7 /* Main.storyboard */; };
 		C60C936521D95E36002CBCC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C60C936421D95E36002CBCC7 /* Assets.xcassets */; };
 		C60C936821D95E36002CBCC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C60C936621D95E36002CBCC7 /* LaunchScreen.storyboard */; };
+		C60C937021D970E7002CBCC7 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60C936F21D970E7002CBCC7 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C60C936421D95E36002CBCC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C60C936721D95E36002CBCC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C60C936921D95E36002CBCC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C60C936F21D970E7002CBCC7 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C60C935D21D95E31002CBCC7 /* AppDelegate.swift */,
 				C60C935F21D95E31002CBCC7 /* ViewController.swift */,
+				C60C936F21D970E7002CBCC7 /* MapForItinerary.swift */,
 				C60C936121D95E31002CBCC7 /* Main.storyboard */,
 				C60C936421D95E36002CBCC7 /* Assets.xcassets */,
 				C60C936621D95E36002CBCC7 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				C60C936021D95E31002CBCC7 /* ViewController.swift in Sources */,
 				C60C935E21D95E31002CBCC7 /* AppDelegate.swift in Sources */,
+				C60C937021D970E7002CBCC7 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
